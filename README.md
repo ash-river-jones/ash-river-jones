@@ -1,6 +1,6 @@
 ### Hi there, [Ash](https://www.linkedin.com/in/ash-river-jones/) here 👋🏻
 
-I am a graduate of  🧠  BrainStation Web Development & Software Engineering Bootcamp. 
+I am a graduate of BrainStation 🧠 Web Development & Software Engineering Bootcamp. 
 
 - 💬 Ask me about React! It's how my brain is wired now! 
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ash-river-jones/" target="_blank" rel="noreferrer" /> LinkedIn </a>
